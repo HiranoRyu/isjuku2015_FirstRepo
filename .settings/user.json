@@ -4,7 +4,7 @@
         "lineNumbers": true,
         "glyphMargin": false,
         "tabSize": 2,
-        "insertSpaces": "auto",
+        "insertSpaces": true,
         "roundedSelection": true,
         "scrollBeyondLastLine": true,
         "wrappingColumn": 300,
